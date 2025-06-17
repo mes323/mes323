@@ -9,8 +9,8 @@ Contador Público | Investigador de Delitos Económicos | Data Analyst en formac
 - 🎓 Contador Público (UNNE)
 - 🕵️ Oficial Principal en el Departamento de Investigaciones de Delitos Económicos (Prefectura Naval Argentina)
 - 📊 Apasionado por los datos, la automatización y la investigación patrimonial
-- 🧠 Estudiando Ciencia de Datos, Finanzas Cuantitativas y AML
-- 🌐 Objetivo: trabajar en proyectos internacionales (OCDE, UIF, etc.)
+- 🧠 Estudiando Ciencia de Datos, Finanzas Cuantitativas.
+- 🌐 Objetivo: Convertirme en Analista Quant 
 
 ---
 
@@ -28,7 +28,7 @@ Contador Público | Investigador de Delitos Económicos | Data Analyst en formac
 - 📈 Dashboard de Yelp + Google Maps
 - 🤖 Chatbot con WhatsApp API para cotizaciones económicas
 - 📂 Automatización de informes patrimoniales
-- 🧾 Curso en desarrollo: “Documentación y Análisis Contable para Investigaciones”
+- 🧾 Curso en desarrollo: “Elementos Bàsico de estadistica para la Investigaciòn"
 
 ---
 
