@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hola, soy Maximiliano
 
-<!--
-**mes323/mes323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Contador Público | Investigador de Delitos Económicos | Data Analyst en formación | 🇦🇷
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre mí
+
+- 🎓 Contador Público (UNNE)
+- 🕵️ Oficial Principal en el Departamento de Investigaciones de Delitos Económicos (Prefectura Naval Argentina)
+- 📊 Apasionado por los datos, la automatización y la investigación patrimonial
+- 🧠 Estudiando Ciencia de Datos, Finanzas Cuantitativas y AML
+- 🌐 Objetivo: trabajar en proyectos internacionales (OCDE, UIF, etc.)
+
+---
+
+### ⚙️ Tecnologías y herramientas
+
+- Python, Pandas, SQL, Excel, Google Sheets
+- Streamlit, FastAPI, BigQuery, Looker Studio
+- Git, GitHub, APIs, Web Scraping
+- Investigación financiera, patrimonial y tributaria
+
+---
+
+### 📌 Proyectos destacados
+
+- 📈 Dashboard de Yelp + Google Maps
+- 🤖 Chatbot con WhatsApp API para cotizaciones económicas
+- 📂 Automatización de informes patrimoniales
+- 🧾 Curso en desarrollo: “Documentación y Análisis Contable para Investigaciones”
+
+---
+
+### 📫 Contacto
+
+- ✉️ Email: mes_323@hotmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/maxsosa23)
+- 🌐 Ciudad Autonoma de Buenos Aires,Argentina
+
+---
+
+¡Gracias por visitar mi perfil! 💼👨‍💻
