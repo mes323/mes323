@@ -8,9 +8,9 @@ Contador Público | Investigador de Delitos Económicos | Data Analyst en formac
 
 - 🎓 Contador Público (UNNE)
 - 🕵️ Oficial Principal en el Departamento de Investigaciones de Delitos Económicos (Prefectura Naval Argentina)
-- 📊 Apasionado por los datos, la automatización y la investigación patrimonial
-- 🧠 Estudiando Ciencia de Datos, Finanzas Cuantitativas.
-- 🌐 Objetivo: Convertirme en Analista Quant 
+- 📊 Apasionado por los datos, la automatización y las finanzas.
+- 🧠 Estudiando Ciencia de Datos y Estadisticas.
+- 🌐 Objetivo: Combinar Ciencia de Datos y Finanzas.
 
 ---
 
