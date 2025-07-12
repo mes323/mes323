@@ -17,7 +17,7 @@ Contador Público | Investigador de Delitos Económicos | Data Analyst en formac
 ### ⚙️ Tecnologías y herramientas
 
 - Python, Pandas, SQL, Excel, Google Sheets
-- Streamlit, FastAPI, BigQuery, Looker Studio
+- Streamlit, FastAPI, BigQuery (GCP), Looker Studio, Power BI
 - Git, GitHub, APIs, Web Scraping
 - Investigación financiera, patrimonial y tributaria
 
@@ -26,7 +26,8 @@ Contador Público | Investigador de Delitos Económicos | Data Analyst en formac
 ### 📌 Proyectos destacados
 
 - 📈 Dashboard de Yelp + Google Maps
-- 🤖 Chatbot con WhatsApp API para cotizaciones económicas
+- 🎬 Sistema de recomendacion de peliculas (MLops -  Similitud de Coseno)
+- 📡 Analisis del sector de Telecomunicaciones de Arg (Streamlit)
 - 📂 Automatización de informes patrimoniales
 - 🧾 Curso en desarrollo: “Elementos Bàsico de estadistica para la Investigaciòn"
 
