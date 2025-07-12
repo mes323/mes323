@@ -1,6 +1,6 @@
 # 👋 Hola, soy Maximiliano
 
-Contador Público | Investigador de Delitos Económicos | Data Analyst en formación | 🇦🇷
+Contador Público | Investigador de Delitos Económicos | Data Analyst | Data Science | 🇦🇷
 
 ---
 
