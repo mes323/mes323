@@ -28,9 +28,6 @@ Contador Público | Investigador de Delitos Económicos | Data Analyst | Data Sc
 - 📈 Dashboard de Yelp + Google Maps
 - 🎬 Sistema de recomendacion de peliculas (MLops -  Similitud de Coseno)
 - 📡 Analisis del sector de Telecomunicaciones de Arg (Streamlit)
-- 📂 Automatización de informes patrimoniales
-- 🧾 Curso en desarrollo: “Elementos Bàsico de estadistica para la Investigaciòn"
-
 ---
 
 ### 📫 Contacto
@@ -38,6 +35,7 @@ Contador Público | Investigador de Delitos Económicos | Data Analyst | Data Sc
 - ✉️ Email: mes_323@hotmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/maxsosa23)
 - 🌐 Ciudad Autonoma de Buenos Aires,Argentina
+- 📃[CV Español](https://drive.google.com/file/d/1FHzRSqXlVO8vjSLMQBt38GoMbAGXHjza/view?usp=sharing) | [CV English](https://drive.google.com/file/d/19G5U9-DZDEG1ve56znRcHJXd6nh-xN69/view?usp=sharing)
 
 ---
 
