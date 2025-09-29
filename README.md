@@ -1,15 +1,15 @@
 # 👋 Hola, soy Maximiliano
 
-Contador Público | Investigador de Delitos Económicos | Data Analyst | Data Science | 🇦🇷
+Contador Público | Data Analyst | Data Science | 🇦🇷
 
 ---
 
 ### 🚀 Sobre mí
 
 - 🎓 Contador Público (UNNE)
-- 🕵️ Oficial Principal en el Departamento de Investigaciones de Delitos Económicos (Prefectura Naval Argentina)
+- 🕵️ Analista en el Departamento de Investigaciones de Delitos Económicos (Prefectura Naval Argentina)
 - 📊 Apasionado por los datos, la automatización y las finanzas.
-- 🧠 Estudiando Ciencia de Datos y Estadisticas.
+- 🧠 Ciencia de Datos y Estadisticas.
 - 🌐 Objetivo: Combinar Ciencia de Datos y Finanzas.
 
 ---
