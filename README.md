@@ -6,6 +6,7 @@ Contador Público | Data Analyst | Data Science | 🇦🇷
 
 ### 🚀 Sobre mí
 
+- 📃 02/12/1988 | CABA | Soltero | Padre de 2 👯‍♀️ 
 - 🎓 Contador Público (UNNE)
 - 🕵️ Analista en el Departamento de Investigaciones de Delitos Económicos (Prefectura Naval Argentina)
 - 📊 Apasionado por los datos, la automatización y las finanzas.
