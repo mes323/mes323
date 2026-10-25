@@ -36,6 +36,12 @@
 
 ---
 
+### 🌍 Idiomas
+
+- Español: nativo | Inglés: intermedio (B2) | Portugués: básico (A2)
+
+---
+
 ### 📫 Contacto
 
 - ✉️ Email: mes_323@hotmail.com
