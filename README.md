@@ -47,7 +47,7 @@
 - ✉️ Email: mes_323@hotmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/maximilianososa23/)
 - 🌐 Ciudad de Corrientes Capital, Argentina
-- 📃[CV Español](https://drive.google.com/file/d/1FHzRSqXlVO8vjSLMQBt38GoMbAGXHjza/view?usp=sharing) | [CV English](https://drive.google.com/file/d/19G5U9-DZDEG1ve56znRcHJXd6nh-xN69/view?usp=sharing)
+- 📃[CV Español](https://drive.google.com/file/d/1jqytCgRZQ1UlRrIEwAQP_LD_t81qnI5r/view?usp=drive_link) | [CV English](https://drive.google.com/file/d/1FhpcN8M3Hluy9gtS2hiGD_wgXwFo50WE/view?usp=drive_link)
 
 ---
 
